@@ -1,0 +1,13 @@
+[project]
+name = "ikt460"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gymnasium>=1.2.3",
+    "imageio>=2.37.2",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "tqdm>=4.67.1",
+]
